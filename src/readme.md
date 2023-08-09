@@ -25,4 +25,4 @@ model sentence structures, to
  generated Lorem Ipsum is 
  therefore always free from 
  repetition, injected humour,
-  or non-characteristic nice 
+  or non-characteristic nic e 
